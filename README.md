@@ -1,5 +1,6 @@
 <h1 align="center">💸 INSTACART ORDERS SQL 📊</h1>
 
+
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -70,7 +71,7 @@ conn=sqlite3.connect('base_datos_instacart.db')
 
 # Creadores del proyecto: 💻
 
-<table>
+<table align="center">
   <tr>
     <td width="30%">
       <h3 align="center">Gabriel Chavez</h3>
@@ -100,7 +101,7 @@ conn=sqlite3.connect('base_datos_instacart.db')
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
     <td width="30%">
       <h3 align="center">Rosa Isela</h3>
